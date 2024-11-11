@@ -1,2 +1,3 @@
 # just a text
 1.2.2
+ADS_VERSION
